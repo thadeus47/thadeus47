@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate and innovative Full Stack Developer with experience building dynamic, responsive, and scalable web applications. With hands-on knowledge in **React.js**, **Node.js**, **PHP**, **DJANGO**, and **MySQL**, I specialize in both front-end and back-end development. I'm also exploring the exciting field of **cybersecurity**.
+I'm a passionate and innovative Full Stack Developer with experience building dynamic, responsive, and scalable web applications. With hands-on knowledge in **React.js**, **Node.js**, **PHP**, **Python**,**Django**,**MongoDB**, **PostgreSQL** and **MySQL**, I specialize in both front-end and back-end development. I'm also exploring the exciting field of **cybersecurity**.
 
 ---
 
