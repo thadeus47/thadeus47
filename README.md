@@ -15,7 +15,7 @@ I'm a passionate and innovative Full Stack Developer with experience building dy
 * **Frontend:** React.js, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS
 * **Backend:** Node.js, PHP, Laravel, Express.js, CodeIgniter 4
 * **Database:** MySQL, MongoDB
-* **DevOps/Tools:** Git, GitHub, Docker, Postman, Netlify, cPanel
+* **DevOps/Tools:** Git, GitHub, Postman, Netlify, cPanel
 * **Cybersecurity Tools:** Wazuh, MITRE ATT\&CK, TheHarvester, Kali Linux,cisco packet tracer, 
 * **Others:**  Figma, RESTful APIs, Slack Webhooks
 
@@ -35,7 +35,7 @@ I'm a passionate and innovative Full Stack Developer with experience building dy
 
 * Next.js Full Stack Development
 * DevSecOps & Cloud Security
-* Cyber Threat Intelligence & Red Teaming
+* Cyber Threat Intelligence & Penetration Testing 
 
 ---
 
