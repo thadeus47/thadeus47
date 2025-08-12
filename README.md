@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Thadeus Miseda
 
-🌍 Nairobi, Kenya | 💻 Full Stack Developer | 🌐 Tech & Cybersecurity Enthusiast
+🌍 Nairobi, Kenya | 💻 Full Stack Developer | 🌐 Cybersecurity Analayst
 
 ---
 
